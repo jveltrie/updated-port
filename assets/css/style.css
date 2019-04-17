@@ -2,7 +2,7 @@ body{
     font-family: 'Karla', sans-serif;
 }
 #pageBackground{
-    background-image: url("../images/IMG-0400.JPG");
+    background-image: url("../images/IMG-0400.jpg");
     background-attachment: fixed;
     background-size: contain;
     background-repeat: no-repeat;
